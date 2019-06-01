@@ -1,0 +1,23 @@
+.spank {
+    padding-left: 10px;
+}
+
+.hot {
+    color: #FF8E99;
+}
+
+.cold {
+    color: #BCDDFF;
+}
+
+.warm {
+    color: #F5EE6F;
+}
+
+.full {
+    color: green;
+}
+
+.empty {
+    color: red;
+}
